@@ -73,8 +73,6 @@ mkdir -p data
 └─ README.md
 ```
 
-````
-
 > The code uses ES Modules (`import`/`export`) — ensure `"type": "module"` is present in `package.json` or run with appropriate flags.
 
 ---
