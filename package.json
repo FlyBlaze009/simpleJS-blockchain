@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "elliptic": "^6.6.1",
+    "express": "^5.1.0"
+  }
+}
